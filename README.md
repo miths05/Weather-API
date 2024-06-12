@@ -13,3 +13,6 @@ This is a simple weather forecasting application that allows users to input a lo
 ## Features
 - Input a location to get the current weather.
 - Display weather information such as temperature, region, country, local time, and weather condition.
+
+## Use This Application:
+- git clone https://github.com/miths05/Weather-API
