@@ -1,6 +1,6 @@
-![Screenshot 2024-06-12 155458](https://github.com/miths05/Weather-API/assets/119745912/09216871-56b3-49c7-9061-fd64730920ea)
-##Weather App
+## Weather App
 
+![Screenshot 2024-06-12 155458](https://github.com/miths05/Weather-API/assets/119745912/09216871-56b3-49c7-9061-fd64730920ea)
 ## Description
 This is a simple weather forecasting application that allows users to input a location and receive current weather information for that location.
 
